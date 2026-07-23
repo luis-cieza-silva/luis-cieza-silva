@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Data Analyst & Data Engineer · Building with Python · Leading <a href="https://datero-hub.com">Datero</a> · Peru
+  Data Analyst & Data Engineer · Building with Python · Founder of <a href="https://datero-hub.com">Datero</a> · Peru
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ### About me
 
 - My main strength is **Python** — data analysis, data science, and data engineering.
-- I lead **[Datero](https://datero-hub.com)**, where I build data products myself, hands-on.
+- I founded **[Datero](https://datero-hub.com)**, a service providing statistical data series on Peru.
 - Currently learning: **Docker, CI/CD, and more advanced Data Engineering**.
 - Currently building **AI agents with LangChain** — experimenting in my [`dreamboat`](https://github.com/luis-cieza-silva/dreamboat) repo.
 - I use **AI coding tools** (Claude Code, Codex, and vibe-coding tools like v0 and Lovable) to take several of my projects from idea to shipped product.
