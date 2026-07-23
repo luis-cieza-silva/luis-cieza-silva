@@ -48,12 +48,16 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luis-cieza-silva&show_icons=true&hide_border=true&theme=tokyonight&icon_color=2563EB&title_color=2563EB" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-cieza-silva&layout=compact&hide_border=true&theme=tokyonight&title_color=2563EB&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luis-cieza-silva&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luis-cieza-silva&hide_border=true&theme=tokyonight&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luis-cieza-silva&theme=tokyonight" alt="Repos por lenguaje"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luis-cieza-silva&theme=tokyonight" alt="Lenguaje más usado"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=luis-cieza-silva&hide_border=true&theme=tokyonight&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak"/>
 </p>
 
 ---
