@@ -1,10 +1,10 @@
 <!-- ====== HEADER / BANNER ====== -->
 <h1 align="center">
-  Hi, I'm Luis Cieza 👋
+  Hi, I'm Luis Cieza
 </h1>
 
 <p align="center">
-  Data Analyst & Data Engineer · Building with Python 🐍 · Leading <a href="https://datero-hub.com">Datero</a> · 🇵🇪 Peru
+  Data Analyst & Data Engineer · Building with Python · Leading <a href="https://datero-hub.com">Datero</a> · Peru
 </p>
 
 <p align="center">
@@ -19,19 +19,19 @@
 
 ---
 
-### 🚀 About me
+### About me
 
-- 🐍 My main strength is **Python** — data analysis, data science, and data engineering.
-- 🧠 I lead **[Datero](https://datero-hub.com)**, where I build data products myself, hands-on.
-- 🌱 Currently learning: **Docker, CI/CD, and more advanced Data Engineering**.
-- 🤖 Currently building **AI agents with LangChain** — experimenting in my [`dreamboat`](https://github.com/luis-cieza-silva/dreamboat) repo.
-- ⚡ I use **AI coding tools** (Claude Code, Codex, and vibe-coding tools like v0 and Lovable) to take several of my projects from idea to shipped product.
-- 🌎 Interested in **economics and public data** (e.g. BCRP API, socioeconomic observatories).
-- ✉️ Contact: **lmciezas@gmail.com**
+- My main strength is **Python** — data analysis, data science, and data engineering.
+- I lead **[Datero](https://datero-hub.com)**, where I build data products myself, hands-on.
+- Currently learning: **Docker, CI/CD, and more advanced Data Engineering**.
+- Currently building **AI agents with LangChain** — experimenting in my [`dreamboat`](https://github.com/luis-cieza-silva/dreamboat) repo.
+- I use **AI coding tools** (Claude Code, Codex, and vibe-coding tools like v0 and Lovable) to take several of my projects from idea to shipped product.
+- Interested in **economics and public data** (e.g. BCRP API, socioeconomic observatories).
+- Contact: **lmciezas@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Core**
 
@@ -53,7 +53,7 @@
 
 ---
 
-### 🤖 Building with AI
+### Building with AI
 
 Several of my biggest projects were built leaning on AI coding tools — from agentic coding assistants to vibe-coding platforms — to move fast from idea to working product.
 
@@ -66,7 +66,7 @@ Several of my biggest projects were built leaning on AI coding tools — from ag
 
 ---
 
-### 📊 Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-cieza-silva&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity&line=2EA043&point=ffffff" alt="Activity graph"/>
@@ -78,7 +78,7 @@ Several of my biggest projects were built leaning on AI coding tools — from ag
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description |
 | --- | --- |
@@ -90,5 +90,5 @@ Several of my biggest projects were built leaning on AI coding tools — from ag
 ---
 
 <p align="center">
-  <i>💡 Learning by building, one project at a time.</i>
+  <i>Learning by building, one project at a time.</i>
 </p>
