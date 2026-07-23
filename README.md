@@ -55,7 +55,7 @@
 
 ### Building with AI
 
-Several of my biggest projects were built leaning on AI coding tools — from agentic coding assistants to vibe-coding platforms — to move fast from idea to working product.
+I consider AI as a revolutionary tool and actively apply it to my projects. Some of the coding tools I have used the most are:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
