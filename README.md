@@ -1,14 +1,14 @@
 <!-- ====== HEADER / BANNER ====== -->
 <h1 align="center">
-  Hola, soy Luis Cieza 👋
+  Hi, I'm Luis Cieza 👋
 </h1>
 
 <p align="center">
-  <a href="https://datero-hub.com"><b>CEO @ Datero</b></a> · Data Solutions · 🇵🇪 Perú
+  Data Analyst & Data Engineer · Building with Python 🐍 · Leading <a href="https://datero-hub.com">Datero</a> · 🇵🇪 Peru
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&center=true&vCenter=true&width=560&lines=Convierto+datos+en+decisiones.;Data+Engineering+%26+Analytics.;Python+%7C+TypeScript+%7C+SQL;Automatizaci%C3%B3n+e+integraci%C3%B3n+de+datos." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&center=true&vCenter=true&width=560&lines=Python+for+Data+Analysis+%26+Data+Science.;Learning+Docker%2C+CI%2FCD+%26+Data+Engineering.;Building+AI+Agents+with+LangChain.;Shipping+products+with+AI+coding+tools." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,54 +19,76 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About me
 
-- 🧠 Fundador y CEO de **[Datero](https://datero-hub.com)**, donde construimos soluciones de datos end-to-end.
-- 📊 Trabajo en **Data Engineering, Analytics y Automatización**: de la fuente cruda a la decisión de negocio.
-- 🐍 Mi día a día es **Python + TypeScript + SQL**, con foco en pipelines de datos y APIs.
-- 🌎 Me interesa la **economía y los datos públicos** (ej. APIs del BCRP y observatorios socioeconómicos).
-- ✉️ Contacto: **lmciezas@gmail.com**
+- 🐍 My main strength is **Python** — data analysis, data science, and data engineering.
+- 🧠 I lead **[Datero](https://datero-hub.com)**, where I build data products myself, hands-on.
+- 🌱 Currently learning: **Docker, CI/CD, and more advanced Data Engineering**.
+- 🤖 Currently building **AI agents with LangChain** — experimenting in my [`dreamboat`](https://github.com/luis-cieza-silva/dreamboat) repo.
+- ⚡ I use **AI coding tools** (Claude Code, Codex, and vibe-coding tools like v0 and Lovable) to take several of my projects from idea to shipped product.
+- 🌎 Interested in **economics and public data** (e.g. BCRP API, socioeconomic observatories).
+- ✉️ Contact: **lmciezas@gmail.com**
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
+
+**Core**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
-
-### 📊 Actividad de Contribuciones
+**Currently learning**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-cieza-silva&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribuciones%20en%20el%20tiempo&line=2563EB&point=ffffff" alt="Gráfico de actividad"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2563EB/luis-cieza-silva" alt="Heatmap de contribuciones" width="90%"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
 </p>
 
 ---
 
-### 📌 Proyectos destacados
+### 🤖 Building with AI
 
-| Proyecto | Descripción |
+Several of my biggest projects were built leaning on AI coding tools — from agentic coding assistants to vibe-coding platforms — to move fast from idea to working product.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white" alt="v0"/>
+  <img src="https://img.shields.io/badge/Lovable-FF66C4?style=flat-square&logoColor=white" alt="Lovable"/>
+</p>
+
+---
+
+### 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-cieza-silva&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Activity&line=2EA043&point=ffffff" alt="Activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2EA043/luis-cieza-silva" alt="Contribution heatmap" width="90%"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
 | --- | --- |
-| [**api_bcrp**](https://github.com/luis-cieza-silva/api_bcrp) | Acceso a datos económicos vía la API del Banco Central de Reserva del Perú (BCRP). |
-| [**api_observatorio_videnza_instituto**](https://github.com/luis-cieza-silva/api_observatorio_videnza_instituto) | Guía para acceder a datos socioeconómicos del Observatorio de Videnza Instituto. |
-| [**fex-files-extractor**](https://github.com/luis-cieza-silva/fex-files-extractor) | Extrae enlaces a archivos `.xlsx`, `.xls` y `.csv` de cualquier página web pública. |
+| [**dreamboat**](https://github.com/luis-cieza-silva/dreamboat) | Experimentation repo — currently building AI agents with LangChain. |
+| [**api_bcrp**](https://github.com/luis-cieza-silva/api_bcrp) | Access to economic data via the Central Reserve Bank of Peru (BCRP) API. |
+| [**api_observatorio_videnza_instituto**](https://github.com/luis-cieza-silva/api_observatorio_videnza_instituto) | Guide to access socioeconomic data from the Videnza Institute Observatory. |
+| [**fex-files-extractor**](https://github.com/luis-cieza-silva/fex-files-extractor) | Extracts links to `.xlsx`, `.xls`, and `.csv` data files from any public webpage. |
 
 ---
 
 <p align="center">
-  <i>💡 "Convierto datos en decisiones." — <a href="https://datero-hub.com">Datero</a></i>
+  <i>💡 Learning by building, one project at a time.</i>
 </p>
