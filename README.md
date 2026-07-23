@@ -45,19 +45,14 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📊 Actividad de Contribuciones
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luis-cieza-silva&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-cieza-silva&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribuciones%20en%20el%20tiempo&line=2563EB&point=ffffff" alt="Gráfico de actividad"/>
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luis-cieza-silva&theme=tokyonight" alt="Repos por lenguaje"/>
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luis-cieza-silva&theme=tokyonight" alt="Lenguaje más usado"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=luis-cieza-silva&hide_border=true&theme=tokyonight&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="GitHub Streak"/>
+  <img src="https://ghchart.rshah.org/2563EB/luis-cieza-silva" alt="Heatmap de contribuciones" width="90%"/>
 </p>
 
 ---
